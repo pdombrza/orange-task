@@ -1,0 +1,9 @@
+Exercises completed with Python 3.8 on Ubuntu (WSL).
+Usage:
+1. clone the repository
+2. go into the directory with files
+To run the file:
+$ python3 orange_rec_task.py <exercise_number>
+Available exercise numbers: 1 - 6.
+If you don't specify the exercise number, the program will by default
+run exercise 1.
