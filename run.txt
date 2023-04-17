@@ -7,3 +7,7 @@ $ python3 orange_rec_task.py <exercise_number>
 Available exercise numbers: 1 - 6.
 If you don't specify the exercise number, the program will by default
 run exercise 1.
+Files:
+'orange_rec_task.py' - code for the exercises
+'constants.py' - some constants required for the exercises
+'log.txt' - file used in exercise 6
